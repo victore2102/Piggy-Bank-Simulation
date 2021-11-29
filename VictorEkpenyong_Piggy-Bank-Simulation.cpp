@@ -1,3 +1,6 @@
+// Victor Ekpenyong
+// October 2020
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
